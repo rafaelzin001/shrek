@@ -17,6 +17,11 @@ section {
     font-weight: 600;
 }
 
+.nav-link {
+    color: #CB6D43;
+    font-weight: 600;
+}
+
 .inicio-fundo {
     /* aula 3 */
     background-image: url('img/4965007.jpg');
@@ -61,7 +66,6 @@ section {
 .display-4 {
     text-shadow: -5px 5px var(--laranja-claro);
 }
-
 
 #tropicalia {
     position: relative;
